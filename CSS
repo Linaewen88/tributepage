@@ -1,0 +1,59 @@
+body {
+  font-family: Segoe UI, Arial, sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.4;
+  text-align: center;
+  color: #333;
+}
+
+main {
+  margin: 30px 80x;
+  padding: 15px;
+  border-radius: 1%;
+  background: #eee;
+}
+
+figure {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  align: inherit;
+}
+
+figcaption {
+  text-align: center;
+}
+
+#img-caption {
+  font-size: 24px;
+  text-align: justify;
+  margin-top: 10px;
+}
+
+section {
+  display: block;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 3;
+}
+
+h3 {
+  display: block;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 10px 10px 10px 10px;
+}
